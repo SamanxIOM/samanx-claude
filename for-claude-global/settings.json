@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git fetch *)",
+      "Bash(git merge *)",
+      "Bash(gh pr *)",
+      "Bash(gh issue *)",
+      "Bash(mkdir -p *)",
+      "Bash(cp *)",
+      "Read(//Users/sam/.claude/**)",
+      "Bash(python3 *)"
+    ]
+  }
+}
