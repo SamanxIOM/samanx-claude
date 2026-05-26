@@ -47,3 +47,5 @@ Merge this repo's `for-claude-global/CLAUDE.md` into `~/.claude/CLAUDE.md` using
 ## Verify
 
 After copying, list the contents of `~/.claude/skills/` and confirm `~/.claude/CLAUDE.md` and `~/.claude/settings.json` exist. Report what was deployed.
+
+On Windows, use the PowerShell tool for directory listing — the Bash tool mangles backslashes in Windows paths. On macOS/Linux, use the Bash tool.
