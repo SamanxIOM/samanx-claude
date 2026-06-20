@@ -36,9 +36,9 @@ Merge this repo's `for-claude-global/CLAUDE.md` into `~/.claude/CLAUDE.md` using
 2. Read this repo's `for-claude-global/CLAUDE.md`.
 3. Wrap the repo content in delimiters:
    ```
-   <!-- BEGIN managed by sam-claude-config -->
+   <!-- BEGIN managed by claude -->
    {repo CLAUDE.md content}
-   <!-- END managed by sam-claude-config -->
+   <!-- END managed by claude -->
    ```
 4. If the existing file already contains the `BEGIN`/`END` delimiters, replace everything between them (inclusive) with the new wrapped block.
 5. If the existing file does not contain the delimiters, append the wrapped block to the end of the file.
