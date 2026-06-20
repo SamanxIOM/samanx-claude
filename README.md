@@ -1,4 +1,4 @@
-# sam-claude-config
+# claude
 
 Central source of truth for global Claude Code configuration. Stores shared instructions and custom skills that stay consistent across all machines.
 
